@@ -5,4 +5,4 @@ ___
 #### * Run the script
 #### * Select your desired horizontal alignment
 #### * Extract your new table from "output.txt"
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Target and Output Example](https://github.com/ishmachine/table-izer/blob/main/github_img.png)
